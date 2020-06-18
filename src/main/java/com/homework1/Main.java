@@ -11,6 +11,5 @@ public class Main {
         System.out.println(pi / x);
         System.out.println(d - a);
         System.out.println(g * a);
-
     }
 }
